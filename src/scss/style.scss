@@ -2,21 +2,20 @@
 
 @import "~bootstrap/scss/bootstrap";
 
-//@font-face {
-//    font-family: 'Roboto';
-//    font-style: normal;
-//    font-weight: 400;
-//    src: url(../fonts/Roboto-Regular.ttf);
+body {
+  padding: 0;
+  margin: 0;
+}
+//html, body,  {
+//  height: 100%;
+//  width: 100%;
+//  padding: 0;
+//  margin: 0;
 //}
 
-body {
-  //font-family: $font-stack;
-  #logo {
-    width: 10rem;
-  }
-  .container {
-    img {
-      width: 20rem;
-    }
-  }
-}
+#mapid { height: 580px; }
+
+//#titolo{
+//  position:absolute;
+//  top: 10px;
+//}
