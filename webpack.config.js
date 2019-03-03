@@ -54,8 +54,8 @@ module.exports = {
                 to: './img'
             },
             {
-                from: './src/uploads',
-                to: './uploads'
+                from: './src/json',
+                to: './json'
             }
         ]),
 

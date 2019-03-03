@@ -1,21 +1,12 @@
 //$font-stack: -apple-system, BlinkMacSystemFont, Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
-
 @import "~bootstrap/scss/bootstrap";
 
 body {
   padding: 0;
   margin: 0;
 }
-//html, body,  {
-//  height: 100%;
-//  width: 100%;
-//  padding: 0;
-//  margin: 0;
-//}
 
-#mapid { height: 580px; }
-
-//#titolo{
-//  position:absolute;
-//  top: 10px;
-//}
+#mapid {
+  height: 100vh;
+  width: 100vw;
+}
